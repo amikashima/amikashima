@@ -2,7 +2,7 @@
 
 📈 MSc Social Data Science @ University of Oxford  
 🌍 BA Geography with Social Data Science @ UCL  
-⭐️ Interests: Natural Language Processing (NLP), Geographic Information System (GIS), Responsible AI, Natural Disaster Response
+⭐️ Interests: NLP, GIS, Responsible AI, Natural Disaster Response
 🧑🏻‍💻 Tools: Python, R, SQL
 
 Check out my portfolio at [amikashima.github.io](https://amikashima.github.io) to see some of my data-driven projects😊

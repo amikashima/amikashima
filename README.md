@@ -1,11 +1,13 @@
 ## Hi, I'm Ami👋
 
 📈 MSc Social Data Science @ University of Oxford  
-🌏 BA Geography with Social Data Science @ UCL  
-💭 Interests: NLP, multilingualism, GIS, AI ethics, disaster response  
-👩‍💻 Tools: Python, R, SQL  
-🌐 Check out my portfolio: [https://amikashima.github.io](https://amikashima.github.io)
+🌍 BA Geography with Social Data Science @ UCL  
+⭐️ Interests: Natural Language Processing (NLP), Geographic Information System (GIS), Responsible AI, Natural Disaster Response
+🧑🏻‍💻 Tools: Python, R, SQL
 
+Check out my portfolio at [amikashima.github.io](https://amikashima.github.io) to see some of my data-driven projects😊
+
+🧩 Currently on medical leave and focusing on recovery while continuing to learn SQL and web development.
 <!--
 **amikashima/amikashima** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

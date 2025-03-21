@@ -4,7 +4,7 @@
 - 🌍 BA Geography with Social Data Science @ UCL  
 - ⭐️ Interests: NLP, GIS, Responsible AI, Natural Disaster Response
 - 🧑🏻‍💻 Tools: Python, R, SQL
-- 🌐 Portfolio: [amikashima.github.io](https://amikashima.github.io) 
+- 🌐 Website: [amikashima.github.io](https://amikashima.github.io) 
 - 🧩 Currently on medical leave and focusing on recovery while continuing to learn SQL and web development.
 <!--
 **amikashima/amikashima** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
